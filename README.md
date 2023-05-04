@@ -4,6 +4,7 @@
 
 **channels:**
 - defaults
+
 **dependencies:**
 - ipykernel
 - pandas
