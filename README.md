@@ -1,19 +1,20 @@
 # MasterProject
 
 ## Python environment dependencies and packages
-channels:
-  - defaults
-dependencies:
-  - ipykernel
-  - pandas
-  - seaborn
-  - scikit-learn
-  - threadpoolctl
-  - python=3.8
-  - numpy
-  - jinja2
-  - sktime
-  - tqdm
+
+**channels:**
+- defaults
+**dependencies:**
+- ipykernel
+- pandas
+- seaborn
+- scikit-learn
+- threadpoolctl
+- python=3.8
+- numpy
+- jinja2
+- sktime
+- tqdm
   
 # Name                    Version                   Build  Channel
 asttokens                 2.0.5              pyhd3eb1b0_0
