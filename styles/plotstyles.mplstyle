@@ -1,0 +1,37 @@
+# demo_syle.mplstyle
+
+# Figure size settings
+#figure.figsize:     8,4             # figure size in inches
+
+# Color settings
+figure.facecolor:   white      # figure facecolor
+grid.color :        lightgrey
+axes.facecolor :    white
+
+# Change to cyan, magenta, yellow and black color palette
+axes.prop_cycle:    cycler('color', ['skyblue', 'lightgrey', 'navy', 'salmon'])
+
+# Remove top and right spines
+axes.spines.left:   True            # display axis spines
+axes.spines.bottom: True
+axes.spines.top:    False
+axes.spines.right:  False
+
+# Both axis tick customisations
+xtick.direction:    in              # direction: {in, out, inout}
+ytick.direction:    in              # direction: {in, out, inout}
+xtick.major.width:  2               # major tick width in points
+ytick.major.width:  2               # major tick width in points
+xtick.labelsize:    12              # fontsize of the tick labels
+ytick.labelsize:    12              # fontsize of the tick labels
+
+# Change font and font size of title and both axis labels
+font.family:        serif
+font.serif:         Times New Roman
+font.size:          14.0
+axes.titlesize:     16              # fontsize of the axes title
+axes.labelsize:     14              # fontsize of the x and y labels
+
+# Line setup
+lines.linewidth:    1
+lines.markersize:   4

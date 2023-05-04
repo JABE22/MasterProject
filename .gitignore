@@ -1,0 +1,96 @@
+img/1.1_HAR_data_acquisition.png
+img/1.2_HAR_system.png
+img/2.1_category_distribution.png
+img/2.2a_datavisualization_pca-tsne.png
+img/2.2b_datavisualization_pca-std.png
+img/2.3_pca_explained_variance.png
+img/2.4_datasample_signals.png
+img/2.5_datasample_geolocations.png
+img/2.6_effect_of_standardization.png
+img/2.6_standard_signals_comb.png
+img/2.6_standard_signals.png
+img/2.7_standard_signals_comb_same-category.png
+img/2.7_standard_signals_comb.png
+img/2.8_category_distribution.png
+img/4.1_SCML_results_std.png
+img/4.1A_Confusion_matrixes_std_deafult.png
+img/4.1B_SCML_results_std.png
+img/4.1C_Confusion_matrixes_std_deafult.png
+img/4.2_SCML_results_pca.png
+img/4.2B_SCML_results_pca.png
+img/4.3A_Final_results_horizontal.png
+img/4.3B_Final_results_vertical.png
+img/4.4_Accuracy_dispersion_by_datatype.png
+img/4.5_Model_correlation.png
+img/5.1_Model_accuracy-time_visualization.png
+img/APX_Feature_correlation.png
+img/APX_ORG_components_scatterplots.png
+img/APX_PCA_components_scatterplots.png
+img/APX_PCA_components.png
+img/classification_report_CTSF.png
+img/classification_report_ENSEMBLE.png
+img/classification_report_hivecote1_temp.png
+img/classification_report_hivecote1.png
+img/classification_report_kNN-TS.png
+img/classification_report_MUSE.png
+img/classification_report_RIC.png
+img/classification_report_RISE.png
+img/classification_report_STC.png
+img/classification_report_STSF.png
+img/classification_report_TSF.png
+img/classification_report_WEASEL.png
+img/M-TSC_EnsembleMethod.jpg
+img/pseudocode_hivecote.png
+img/pseudocode_rise.png
+img/pseudocode_stc.png
+img/pseudocode_tsf.png
+img/pseudocode_WEASEL-MUSE.png
+img/random_forest_C.png
+img/random_forest_extensive.png
+img/random_forest.png
+img/results_altitude.png
+img/results_datasetup_a.png
+img/results_datasetup_b.png
+img/results_hr.png
+img/results_speed.png
+img/S-CML_hyperparameter_tuning_method.jpg
+img/S-CML_model_selection_method.jpg
+img/U-TSC_Ensemble_HIVE-COTE.jpg
+img/weasel-muse_pipeline.png
+papers/A Dataset for Human Activity Recognition Using Acceleration Data from Smartphones.pdf
+papers/A_Survey_on_Human_Activity_Recognition_using_Wearable_Sensors.pdf
+papers/Activity Classification Using Realistic Data.pdf
+papers/An_Improved_Random_Forest_Classifier_for_Multiclassification.pdf
+papers/Common_sport_activity_recognition_using_inertial_sensor.pdf
+papers/Cross-Country Skiing Gears Classification using Deep Learning.pdf
+papers/Data Compression and Visualization Using PCA and T-SNE.pdf
+papers/Enhanced Human Activity Recognition Based on Smartphone Sensor Data Using Hybrid Feature Selection Model.pdf
+papers/Exploiting multi-channels deep convolutional neural networks.pdf
+papers/Human Activity Recognition from the Acceleration Data of a Wearable Device..pdf
+papers/Human_activity_recognition_method_based_on_inertial_sensor_and_barometer.pdf
+papers/Human_Activity_Recognition_Using_Inertial_Physiological_and_Environmental_Sensors_A_Comprehensive_Survey.pdf
+papers/Human_Activity_Recognition_via_Feature_Extraction_.pdf
+papers/Human_Daily_and_Sport_Activity_Recognition_Using_a_Wearable_Inertial_Sensor_Network.pdf
+papers/Human_sport_activity_recognition_with_portable_device.pdf
+papers/Learning a symbolic representation for multivariate.pdf
+papers/Local_Cascade_Ensemble_for_Multivariate_Data_Classification.pdf
+papers/Model Evaluation, Model Selection, and Algorithm Selection in ML.pdf
+papers/Multivariate time series classification with parametric derivative.pdf
+papers/Multivariate_Time_Series_Classification_With_Weasel+MUSE.pdf
+papers/Pattern Recognition.pdf
+papers/Personalized Human Activity Recognition Using Convolutional Neural Networks.pdf
+papers/Rotation_Forest_A_New_Classifier_Ensemble_Method.pdf
+papers/Scalable classifier-agnostic channel selection.pdf
+papers/Smartwatch-based_Human_Activity_Recognition_Using_Hybrid_LSTM_Network.pdf
+papers/Sport-Related Human Activity Detection and Recognition Using a Smartwatch.pdf
+papers/The great multivariate time series classification bake off.pdf
+papers/Wearable_Sport_Activity_Classification_Based_on_Deep_Convolutional_Neural_Network.pdf
+setup/.ipynb_checkpoints/opt_params-checkpoint
+MastersThesis_progress.pptx
+Proceedings of AICTC 2019.pdf
+MastersThesis.pptx
+color_palette.png
+drawings/M-TSC_EnsembleMethod.drawio
+.ipynb_checkpoints/MasterProjectCode_CML-checkpoint.ipynb
+.ipynb_checkpoints/MasterProjectCode_SAC-Analysis-checkpoint.ipynb
+.ipynb_checkpoints/MasterProjectCode_TSC-checkpoint.ipynb
