@@ -16,10 +16,13 @@
 - jinja2
 - sktime
 - tqdm
-  
-# Name                    Version                   Build  Channel
-asttokens                 2.0.5              pyhd3eb1b0_0
-backcall                  0.2.0              pyhd3eb1b0_0
+
+#1 | #2 | #3 | #4
+--- | --- | --- | ---
+| Name | Version | Build | Channel
+asttokens | 2.0.5 | pyhd3eb1b0_0 |
+backcall | 0.2.0 | pyhd3eb1b0_0 |
+
 blas                      1.0                         mkl
 bottleneck                1.3.5            py38h080aedc_0
 brotli                    1.0.9                h2bbff1b_7
