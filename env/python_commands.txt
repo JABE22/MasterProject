@@ -1,0 +1,21 @@
+# NOTES: 
+# - Check also PythonEnv.csv
+# - This file might be corrupted: 
+# - Check which packages can be installed by conda/pip
+#
+# python==3.8.16
+
+# Conda
+conda install -c conda-forge sktime
+conda install numpy== 1.24.3 
+conda install pandas==1.5.3 
+conda install seaborn==0.12.2
+conda install scikit-learn==1.2.0
+conda install jinja2==3.1.2
+conda install tqdm
+
+# Pip
+pip install directory_structure
+pip install association-metrics
+
+
