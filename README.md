@@ -22,3 +22,10 @@
 ## Testing environment
 Lenovo Yoga
 
+## Jupyter Notebooks with preview are available in Kaggle
+
+https://www.kaggle.com/code/jarnomatarmaa/masterprojectcode-cml
+https://www.kaggle.com/code/jarnomatarmaa/masterprojectcode-tsc
+https://www.kaggle.com/code/jarnomatarmaa/masterprojectcode-sac-analysis
+
+Unfortunately, GitHub does not support Jupyter Notebook preview
