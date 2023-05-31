@@ -1,4 +1,6 @@
-# MasterProject
+# Master Thesis Project
+
+## Sport Activity Classification Using Classical Machine Learning and Time Series Methods
 
 ## Python environment dependencies
 
