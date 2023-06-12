@@ -49,7 +49,7 @@ Unfortunately, GitHub does not support Jupyter Notebook preview
 
 ## Data collection method
 
-![Sensor_feature_extraction](presentation/img/Sensor_feature_extraction.png)
+![Sensor_feature_extraction](presentation/img/Sensor feature extraction.png)
 
 ## Study pipeline
 
