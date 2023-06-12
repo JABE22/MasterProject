@@ -47,6 +47,10 @@ Sport Activity Classification Using Classical Machine Learning and Time Series M
 
 Unfortunately, GitHub does not support Jupyter Notebook preview
 
+## Data collection method
+
+![Sensor_feature_extraction](presentation/img/'Sensor feature extraction.png')
+
 ## Study pipeline
 
 ![Pipeline](img/thesis_study_pipeline.jpg)
