@@ -29,14 +29,15 @@ Sport Activity Classification Using Classical Machine Learning and Time Series M
 | Installed RAM | 8,00 GB |
 | System type | 64-bit operating system, x64-based processor |
 
-Development environment: Visual Studio Code, Jupyter extension
-Version: 1.74.3 (user setup)
-Electron: 19.1.8
-Chromium: 102.0.5005.167
-Node.js: 16.14.2
-V8: 10.2.154.15-electron.0
-OS: Windows_NT x64 10.0.22621
-Sandboxed: No
+| Development environment | Visual Studio Code, Jupyter extension |
+| --- | --- |
+| Version | 1.74.3 (user setup) |
+| Electron | 19.1.8 |
+| Chromium | 102.0.5005.167 |
+| Node.js | 16.14.2 |
+| V8 | 10.2.154.15-electron.0 |
+| OS | Windows_NT x64 10.0.22621 |
+| Sandboxed |  No |
 
 ## Jupyter Notebooks with preview are available in Kaggle
 
