@@ -51,7 +51,7 @@ Unfortunately, GitHub does not support Jupyter Notebook preview
 
 <div style="display: flex; align-items: center;">
   <img src="devices/forerunner920xt.jpeg" alt="Garmin FR920XT" width="200"/>
-  <img src="devices/Garmin-Vivosport-1.jpg" alt="Garmin vivosport" width="250"/>
+  <img src="devices/Garmin-Vivosport-1.jpg" alt="Garmin vivosport" width="200"/>
 </div>
 
 ## Data collection method (feature extraction from sensors)
