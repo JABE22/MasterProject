@@ -48,10 +48,12 @@ Sport Activity Classification Using Classical Machine Learning and Time Series M
 Unfortunately, GitHub does not support Jupyter Notebook preview
 
 ## Dataset recording devices
+
 <div>
 <img src="devices/forerunner920xt.jpeg" alt="Garmin FR920XT" width="200"/>
 <img src="devices/Garmin-Vivosport-1.jpg" alt="Garmin vivosport" width="250"/>
-<div>
+</div>
+
 ## Data collection method (feature extraction from sensors)
 
 ![Sensor_feature_extraction](presentation/img/sensor_feat_extr.png)
