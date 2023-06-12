@@ -50,8 +50,8 @@ Unfortunately, GitHub does not support Jupyter Notebook preview
 ## Dataset recording devices
 
 <div style="display: flex; align-items: center;">
-  <img src="devices/forerunner920xt.jpeg" alt="Garmin FR920XT" width="200"/>
-  <img src="devices/Garmin-Vivosport-1.jpg" alt="Garmin vivosport" width="200"/>
+  <img src="devices/forerunner920xt.jpeg" alt="Garmin FR920XT" height="300"/>
+  <img src="devices/Garmin-Vivosport-1.jpg" alt="Garmin vivosport" height="300"/>
 </div>
 
 ## Data collection method (feature extraction from sensors)
