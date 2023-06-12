@@ -32,11 +32,20 @@ Lenovo Yoga
 
 Unfortunately, GitHub does not support Jupyter Notebook preview
 
-## Main results
+## Study pipeline
+---
+![Pipeline](img/thesis_study_pipeline.jpg)
+---
+
+## Main results of the study
 
 **Standard Classical Machine Learning**
-
+---
 ![S-CML results](img/4.2_SCML_results_opt.png)
-
+---
 **Univairate and Multivariate Time Series Classification**
+---
 ![TSC_reults](img/5.1_Model_accuracy-time_visualization_with_rectangle.png)
+---
+
+
