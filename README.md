@@ -87,5 +87,6 @@ Unfortunately, GitHub does not support Jupyter Notebook preview
 
 ![TSC_reults](img/5.1_Model_accuracy-time_visualization_with_rectangle.png)
 
+## Result table (Compiled S-CML, U-TSC and M-TSC)
 
-
+![Compilation table](img/compilation_table.png)
