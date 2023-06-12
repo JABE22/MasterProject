@@ -50,7 +50,7 @@ Unfortunately, GitHub does not support Jupyter Notebook preview
 ## Dataset recording devices
 
 <div style="display: flex; align-items: center;">
-  <img src="devices/forerunner920xt.jpeg" alt="Garmin FR920XT" height="300"/>
+  <img src="devices/forerunner920xt.jpeg" alt="Garmin FR920XT" height="250"/>
   <img src="devices/Garmin-Vivosport-1.jpg" alt="Garmin vivosport" height="200"/>
 </div>
 
