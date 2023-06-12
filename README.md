@@ -23,10 +23,11 @@ Sport Activity Classification Using Classical Machine Learning and Time Series M
 
 ## Testing environment
 
-Device:  Lenovo Yoga 920-13IKB
-Processor: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz (1.80 GHz)
-Installed RAM: 8,00 GB
-System type: 64-bit operating system, x64-based processor
+| Device | Lenovo Yoga 920-13IKB |
+| --- | --- |
+| Processor | Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz (1.80 GHz) |
+| Installed RAM | 8,00 GB |
+| System type | 64-bit operating system, x64-based processor |
 
 Development environment: Visual Studio Code, Jupyter extension
 Version: 1.74.3 (user setup)
