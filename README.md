@@ -64,11 +64,11 @@ Unfortunately, GitHub does not support Jupyter Notebook preview
 
 ## Main results of the study
 
-**Standard Classical Machine Learning**
+### Standard Classical Machine Learning (S-CML)
 
 ![S-CML results](img/4.2_SCML_results_opt.png)
 
-**Univariate and Multivariate Time Series Classification**
+### Univariate and Multivariate Time Series Classification (U-TSC and M-TSC)
 
 ![TSC_reults](img/5.1_Model_accuracy-time_visualization_with_rectangle.png)
 
